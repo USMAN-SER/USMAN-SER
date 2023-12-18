@@ -2,7 +2,46 @@
 </p>
 </p>
 
-### Hi there 👋
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
+</p>
+
+
+
+- 🔭 I’m currently working on [USMAN-MD](https://github.com/USMAN-SER/USMAN-MD)
+
+- 📫 [How to reach me!](https://github.com/USMAN-SER/USMAN-SER/blob/main/README.md#-how-to-reach-me)
+
+- ⚡ Always ready to help!
+
+---
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=USMAN-SER&label=Profile%20views&color=0e75b6&style=flat" alt="naveeddogar" /> </p>
+
+
+
+- 🌱 I’m currently learning **Coding**
+
+- 💬 Ask me about **Technology , WhatsApp Bots**
+
+
+- ⚡ Fun fact **I am Funny**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+
+
+<a href="https://wa.me/923090658722?text=Hey%20Usman%20Ser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923090658722" height="30" width="40" /></a>
+
+<a href="https://youtube.com/@mrusmaninfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+
+
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=This+is+USMAN+SER;+come+here+again;Thanks+for+visiting+Here)](https://git.io/typing-svg) <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=USMAN-SER&label=Visitors%20count&color=10d9c3&style=plastic" alt="USMAN-SER" /> </p>
 ### 😻learning coding
