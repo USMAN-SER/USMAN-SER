@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=USMAN-SER%20&description=Hi,%20Welcome%20To%20My%20Profile&image=hhttps://telegra.ph/file/9099529f8d5304040c1fa.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=usmanser123&github=USMAN-SER&)
+</p> https://telegra.ph/file/f5d51986875c33efa4644.jpg
 </p>
 </p>
 
