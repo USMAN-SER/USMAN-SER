@@ -1,8 +1,9 @@
-</p> https://telegra.ph/file/f5d51986875c33efa4644.jpg
+### Hi there 👋
+[![MasterHead](https://telegra.ph/file/f5d51986875c33efa4644.jpg)](https://github.com/USMAN-SER)
 </p>
 </p>
 
-<h1 align="center"><b>нγ, ι αм ᴜsᴍαɴ sєя  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>нγ, ι αм ᴜsᴍᴀɴ sᴇʀ  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
